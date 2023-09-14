@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj": {}
+    "c:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj": {
+    "c:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj",
+        "projectUniqueName": "c:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj",
         "projectName": "Lecture1",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj",
+        "projectPath": "c:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\Lecture1.csproj",
         "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\obj\\",
+        "outputPath": "c:\\Users\\Comp\\Desktop\\Python\\С#\\Examples\\Lecture1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config"
