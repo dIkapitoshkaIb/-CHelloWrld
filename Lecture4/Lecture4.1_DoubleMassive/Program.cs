@@ -85,7 +85,7 @@ void FillArray(int[,] matr)
         }
     }
 }
-PrintArray(matrix);
+
 FillArray(matrix);
 Console.WriteLine();
 PrintArray(matrix);
